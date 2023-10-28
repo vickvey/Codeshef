@@ -42,7 +42,7 @@ double eps = 1e-12;
 #define forsn(i,s,e) for(ll i = s; i < e; i++)
 #define rforn(i,s) for(ll i = s; i >= 0; i--)
 #define rforsn(i,s,e) for(ll i = s; i >= e; i--)
-#define ln "\n"
+#define nl "\n"
 #define dbg(x) cout<<#x<<" = "<<x<<ln
 #define mp make_pair
 #define pb push_back
@@ -55,16 +55,25 @@ double eps = 1e-12;
  
 void solve(){
     //code here
-    
+    ll n = 0;
+    cin >> n;
+    while(n--) {
+        cout << n << " ";
+    }cout << nl;
 }
  
 int main()
 {
- fast_cin();
- ll t;
- cin >> t;
- while(t--) {
-     solve();
- }
- return 0;
+    #ifndef ONLINE_JUDGE 
+    freopen("input.txt", "r", stdin); 
+    freopen("output.txt", "w", stdout); 
+    #endif
+
+    fast_cin();
+    ll t;
+    cin >> t;
+    while(t--) {
+        solve();
+    }
+    return 0;
 }
