@@ -1,0 +1,1 @@
+{"name":"Local: SUBARRAYREM_1504","url":"/workspaces/super-duper-journey/PRACTICE/SUBARRAYREM_1504.cpp","tests":[{"id":1698214543964,"input":"3\n5\n1 0 0 0 1\n3\n1 1 1\n3\n0 0 0","output":"2\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/super-duper-journey/PRACTICE/SUBARRAYREM_1504.cpp","group":"local","local":true}
