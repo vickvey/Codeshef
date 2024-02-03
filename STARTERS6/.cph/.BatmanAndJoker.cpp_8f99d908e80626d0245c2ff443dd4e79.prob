@@ -1,0 +1,1 @@
+{"name":"Local: BatmanAndJoker","url":"/home/vivek/Desktop/Codeshef/STARTERS6/BatmanAndJoker.cpp","tests":[{"id":1706978202518,"input":"2\n10\nabcdefghij\n7\nbcadage","output":"hgfeabcdij\ngacbade"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vivek/Desktop/Codeshef/STARTERS6/BatmanAndJoker.cpp","group":"local","local":true}
